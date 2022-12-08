@@ -1,0 +1,10 @@
+{
+    "hotelName":"Taj ",
+    "location":"Delhi",
+    "category":5,
+    "noOfRooms":5000,
+    "occupiedRooms":4000,
+    "bookedRooms":3500,
+    "avgUserRating":4,
+    "costPerRoom":12500
+}
